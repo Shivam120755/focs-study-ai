@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+data/vectordb.pkl
+data/textbook_cleaned.json
+data/textbook_text.json
+data/focs_raw_corpus.json
+data/focs_training_dataset.json
+models/
+*.safetensors
+*.bin
+.env
+test.py
